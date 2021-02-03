@@ -44,11 +44,3 @@ def checkarguments():
 checkarguments()
 
 
-# gcid = sk.chats.recent()
-# id = 'live:.cid.9658e04e73de910b'
-# gid = '19:4535be178e9f461b87dbdd544d1d6730@thread.skype'
-# rdid = 'randy_dongon_os'
-# ch = sk.contacts[user_id].chat  # for single send message
-
-# ch = sk.chats[id]
-# ch.sendMsg(content)
