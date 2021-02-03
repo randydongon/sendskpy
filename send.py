@@ -1,4 +1,4 @@
-from skpy import Skype, SkypeMsg, SkypeGroupChat
+from skpy import Skype
 import sys
 import os
 import re
